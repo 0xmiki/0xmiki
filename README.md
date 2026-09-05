@@ -1,6 +1,6 @@
-# miki ✦｡☆
+<h2 align="center">miki ✦｡☆</h2>
 
-building with words.
+I like to build stuff
 
 software, experiments, interfaces.
 
