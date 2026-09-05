@@ -4,6 +4,9 @@ building with words.
 
 software, experiments, interfaces.
 
+→ [figmaboy](https://github.com/0xmiki/figmaboy)  
+a desktop design editor. draw by hand or ask Codex to edit the canvas.
+
 → [minds](https://github.com/0xmiki/minds-cli)  
 chat with AI versions of historical thinkers in your terminal.
 
