@@ -1,8 +1,6 @@
-<h2 align="center">miki ✦｡☆</h2>
+<h2>miki ✦｡☆</h2>
 
 I like to build stuff
-
-software, experiments, interfaces.
 
 → [figmaboy](https://github.com/0xmiki/figmaboy)  
 a desktop design editor. draw by hand or ask Codex to edit the canvas.
